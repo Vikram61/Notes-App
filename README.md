@@ -1,8 +1,9 @@
-This is a notes app that is made using React JS and has the following features
+This is a notes app that is made using React JS.
 
-Link : 
+Link : https://notes-app-cyan-xi.vercel.app/
 
 💡 Features
+
 Add new notes instantly
 
 Edit existing notes inline
