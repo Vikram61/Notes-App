@@ -12,5 +12,5 @@ Delete notes with a click
 
 Smooth animations and dark UI theme
 
-This project still needs to add the support of Local Storage so that the notes do not get automatically deleted for every  refresh.
+
 
